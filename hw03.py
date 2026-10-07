@@ -22,7 +22,7 @@ def read_five_ints():
     and if the input converted to int is outside of [0,10], prints
     "Error in read_five_ints: input integer outside of range".
     """
-    global grades7
+    global grades
     
     
     for idx in range(len(grades)):
